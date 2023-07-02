@@ -3,7 +3,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ainxgans&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
-
-# 📊 Wakatime Stats:
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?ainxgans=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
