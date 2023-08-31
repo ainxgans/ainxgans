@@ -1,5 +1,5 @@
 
-![readmebox (2)](https://github.com/ainxgans/ainxgans/assets/71548744/59f00daf-dca2-4aa1-82d9-a00963074585)
+![readmebox (3)](https://github.com/ainxgans/ainxgans/assets/71548744/90b7da8b-abd4-47b8-9a81-fa0f75b12e9c)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maulana_1.0) 
