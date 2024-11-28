@@ -1,4 +1,4 @@
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=w1f4dwd05mrpemccsz6by5bu4&unique={true|1|on|yes})
 ![readmebox (3)](https://github.com/ainxgans/ainxgans/assets/71548744/90b7da8b-abd4-47b8-9a81-fa0f75b12e9c)
 
 ## 🌐 Socials:
