@@ -3,4 +3,5 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maulana_1.0) 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=w1f4dwd05mrpemccsz6by5bu4&count=10) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ainxgans&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
+![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/1Es7AUAhQvapIcoh3qMKDL?si=0fbd5b0dd2834726)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ainxgans&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=pie)
