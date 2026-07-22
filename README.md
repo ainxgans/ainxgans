@@ -19,7 +19,9 @@
 ### 🎧 Currently vibing to
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4cNfcmyCGw53tOSOsRI3z8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/track/4cNfcmyCGw53tOSOsRI3z8">
+    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
 </p>
 
 ### 📈 Contribution Snake
