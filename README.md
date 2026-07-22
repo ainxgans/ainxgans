@@ -4,9 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Maulana</h1>
-
-### 📈 Contribution Snake
+<p align="center"><strong>Hi 👋, I'm Maulana</strong></p>
 
 <p align="center">
   <picture>
@@ -16,13 +14,9 @@
   </picture>
 </p>
 
-### 🔥 Streak Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ainxgans&theme=dark&hide_border=true" alt="ainxgans streak" />
 </p>
-
-### ⏱️ WakaTime
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
