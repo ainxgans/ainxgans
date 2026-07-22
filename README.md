@@ -6,6 +6,16 @@
 
 <h1 align="center">Hi 👋, I'm Maulana</h1>
 
+### 📈 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ainxgans/ainxgans/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ainxgans/ainxgans/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ainxgans/ainxgans/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center">
